@@ -1,0 +1,7 @@
+[project]
+name = "whisper-asr"
+version = "0.1.0"
+description = "Speech Recognition"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["openai-whisper"]
